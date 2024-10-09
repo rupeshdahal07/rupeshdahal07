@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently studying **Computer Science**
+ 🧑‍💻 I’m currently studying **Computer Science**
  
- 🌱 I’m currently learning **Django, Python, AWS**
+ 📖 I’m currently learning **Django, Python, AWS**
 
 <!--💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/rupeshdahal07/rupeshdahal07/issues)**-->
 
-⚡ Fun fact ****
+⚡ Fun fact **The first computer "bug" was an actual bug!**
 
  </div>
  
