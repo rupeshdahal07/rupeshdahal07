@@ -14,7 +14,7 @@
 </div>
 
 ---
-
+<div > 
 ## 👨‍💻 About Me
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -27,6 +27,7 @@
 
 ---
 <br>
+</div>
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -54,16 +55,16 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rupeshdahal/">
+  <a href="https://www.linkedin.com/in/rupesh-dahal/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/rupeshdahal07">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:contact@rupeshdahal.com">
+  <a href="mailto:rupyesdahal12@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://rupeshdahal.com">
+  <a href="https://rupesh07.com.np">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </div>
