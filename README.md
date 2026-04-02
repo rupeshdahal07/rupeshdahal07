@@ -70,10 +70,10 @@ me.say_hi()
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rupeshdahal07&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshdahal07&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshdahal07&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak"/>
