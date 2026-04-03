@@ -34,14 +34,6 @@ class Developer:
 me = Developer()
 me.say_hi()
 ```
-
-### 🎯 Currently
-
-- 🔭 Building scalable web applications with Django and Python
-- 🌱 Deepening my knowledge in AWS cloud services
-- 💡 Exploring modern web development frameworks and best practices
-- 🤝 Open to collaborating on innovative projects
-
 ---
 
 ## 🛠️ Technical Skills
