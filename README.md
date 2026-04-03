@@ -81,12 +81,6 @@ me.say_hi()
 
 ---
 
-## 💼 Featured Projects
-
-Coming soon! Currently working on exciting projects that will be showcased here.
-
----
-
 ## 📫 Let's Connect
 
 I'm always interested in connecting with fellow developers, discussing new ideas, or exploring collaboration opportunities. Feel free to reach out!
