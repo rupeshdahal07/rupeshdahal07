@@ -70,30 +70,3 @@ me.say_hi()
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshdahal07&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 </div>
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in connecting with fellow developers, discussing new ideas, or exploring collaboration opportunities. Feel free to reach out!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rupesh_Dahal-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rupesh-dahal/)
-[![Twitter](https://img.shields.io/badge/Twitter-@rupeshdahal07-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/rupeshdahal07)
-[![Website](https://img.shields.io/badge/Portfolio-rupesh07.com.np-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rupesh07.com.np)
-[![Email](https://img.shields.io/badge/Email-rupyesdahal12@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:rupyesdahal12@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  
-### ⚡ Fun Fact
-
-*The first computer bug was an actual moth found trapped in the Harvard Mark II computer in 1947!*
-
-<sub>💻 Built with passion and ☕</sub>
-
-</div>
