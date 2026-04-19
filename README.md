@@ -35,8 +35,6 @@ me = Rupesh()
 me.say_hi()
 ```
 
-- 🔭 Currently working on **Nepal Tourism API** and **full-stack Django projects**
-- 🌱 Deepening my skills in **AWS**, **Docker**, and **cloud-native development**
 - 💡 Passionate about building scalable web apps that solve real-world problems
 - 📫 Reach me at **rupyesdahal12@gmail.com**
 
@@ -84,28 +82,6 @@ me.say_hi()
 
 </div>
 
----
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🏔️ Nepal Tourism API](https://github.com/rupeshdahal07/Nepal-tourism-API) | RESTful API showcasing Nepal's tourism destinations and attractions | Python, Django |
-| [🍰 Bakery Django](https://github.com/rupeshdahal07/Bakery-Django) | Full-featured bakery management web application | Django, HTML/CSS |
-| [🛒 Django Ecommerce](https://github.com/rupeshdahal07/Django-Ecommerce) | Complete ecommerce platform with product listings and cart system | Python, Django |
-| [💼 Portfolio 2025](https://github.com/rupeshdahal07/portfolio_2025) | Personal portfolio website showcasing my work and skills | HTML, CSS |
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rupeshdahal07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
